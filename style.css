@@ -31,7 +31,6 @@ button{
     width: 200px;
     height: 60px;
     bottom: 40px;
-    left: 50%;
-    transform: translate(-50%, 0);
+    right: 50%;
     background-color: rgb(70, 58, 58);
 }    
