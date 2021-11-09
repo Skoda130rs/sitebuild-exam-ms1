@@ -1,0 +1,36 @@
+section{
+    height: 100vh;
+    position: relative;
+}
+.first{
+    background-color: grey
+}
+.second{
+    background-color: rgb(155, 144, 144);
+}
+button{
+    position: absolute;
+}
+.btnFirst{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: rgb(71, 69, 69);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.btnSecond{
+    width: 200px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: rgb(134, 101, 101);
+}
+.btnThird{
+    width: 200px;
+    height: 60px;
+    bottom: 40px;
+    right: 50%;
+    background-color: rgb(70, 58, 58);
+}    
